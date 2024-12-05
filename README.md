@@ -1,0 +1,2 @@
+# Dart Reduce on Empty List
+This example demonstrates a common error when using the `reduce` method in Dart on an empty list. The `reduce` method requires at least one element in the list to perform the operation; otherwise, it throws an error. This example shows the error and provides a solution using null checks.
